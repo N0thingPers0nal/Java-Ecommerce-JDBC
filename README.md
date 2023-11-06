@@ -37,5 +37,5 @@ Challenges:
  
 Credentials 
 -----------
-  ▶ For "User" Login use the following credentials
+-> For "User" Login use the following credentials
       Email = "user1@gmail.com" | Password = "user1"
